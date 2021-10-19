@@ -24,7 +24,7 @@ int main()
 	int a[100],i,n;
 	printf("enter size of an array:\n");
 	scanf("%d",&n);
-	printf("enter elemwnts of array:\n");
+	printf("elemwnts of array:\n");
 	for(i=0;i<n;i++)
 	scanf("%d",&a[i]);
 		
